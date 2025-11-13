@@ -39,7 +39,9 @@ BLEU (optional)
 
 🗂 Reproducible artifacts stored in submission_artifacts/
 
-📂 Repository Structure
+## 📂 Repository Structure
+
+```
 .
 ├── StockGro_GenAI_RAG_Assignment_LakhanBukkawar.ipynb     # Main notebook
 ├── StockGro_GenAI_RAG_Assignment_Report_LakhanBukkawar.pdf
@@ -60,6 +62,8 @@ BLEU (optional)
     ├── image_embeddings.npy
     ├── final_translated_captions.csv
     ├── translated_captions_all8.csv
+```
+
 
 
 🔧 How to Run the Project
