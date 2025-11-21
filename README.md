@@ -43,11 +43,12 @@ BLEU (optional)
 
 ```
 .
-├── StockGro_GenAI_RAG_Assignment_LakhanBukkawar.ipynb     # Main notebook
-├── StockGro_GenAI_RAG_Assignment_Report_LakhanBukkawar.pdf
-├── Assignment - data science.pdf
+├── Multimodal_Multilingual_RAG_System.ipynb            # Main notebook (cleaned)
+├── Multimodal_RAG_System_Report_LakhanBukkawar.pdf     # Technical report
+├── Multimodal_RAG_Notebook_Export.pdf                  # PDF backup of notebook
+├── Assignment - data science.pdf                       # Original assignment brief
 │
-├── clip-images-data/                                      # Dataset (8 images)
+├── clip-images-data/                                   # Dataset (8 images)
 │   ├── camera.jpeg
 │   ├── cat.jpeg
 │   ├── coffee.jpeg
@@ -57,12 +58,13 @@ BLEU (optional)
 │   ├── page.png
 │   ├── teacher.jpeg
 │
-└── submission_artifacts/                                   # Generated outputs
+└── submission_artifacts/                               # Generated outputs
     ├── faiss_index_images.faiss
     ├── image_embeddings.npy
     ├── final_translated_captions.csv
     ├── translated_captions_all8.csv
 ```
+
 
 
 
