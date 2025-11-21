@@ -112,7 +112,7 @@ All embeddings and FAISS indices stored for reproducibility
 📄 Technical Report
 
 Read the complete explanation of the methodology, results, and multilingual approach in:
-📄 StockGro_GenAI_RAG_Assignment_Report_LakhanBukkawar.pdf
+📄 Multimodal_RAG_System_Report_LakhanBukkawar.pdf
 
 🙌 Acknowledgements
 
