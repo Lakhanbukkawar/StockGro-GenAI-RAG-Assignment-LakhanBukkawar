@@ -1,4 +1,4 @@
-📘 StockGro GenAI Assignment — Multimodal RAG System
+📘 # Multimodal & Multilingual RAG System
 
 Author: Lakhan Bukkawar
 
